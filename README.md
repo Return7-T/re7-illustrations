@@ -1,6 +1,6 @@
 # re7-illustrations
 
-Re7 个人 IP 的独立文章配图 Skill。固定角色与暖纸绘本画风，从原文做认知锚点、中文短批注和配图 QA。
+Re7 个人 IP 的独立文章配图 Skill。固定角色（藏青连帽、天蓝挑染、青色 7）与日式赛璐璐画风，从原文做认知锚点、中文短批注和配图 QA。
 
 ## 安装（当前项目）
 
@@ -34,4 +34,4 @@ Use $re7-illustrations 先不要生图，给这篇文章做 5 张左右的 shot 
 | 中文批注 | `references/annotation-system.md` |
 | 构图 | `references/composition-patterns.md` |
 
-本仓库为私人仓库，仅包含本 Skill，不依赖 ip-illustration-skill-builder。
+本仓库为私人仓库，仅包含本 Skill，可独立运行。
