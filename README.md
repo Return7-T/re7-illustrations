@@ -5,7 +5,7 @@ Re7 个人 IP 的独立文章配图 Skill。固定角色（藏青连帽、天蓝
 ## 安装（当前项目）
 
 ```bash
-git clone git@github.com:Return7-T/re7-illustrations.git .agents/skills/re7-illustrations
+git clone https://github.com/Return7-T/re7-illustrations.git .agents/skills/re7-illustrations
 ```
 
 Grok 会扫描 `.agents/skills/`。安装后重新打开该项目会话。
@@ -34,4 +34,5 @@ Use $re7-illustrations 先不要生图，给这篇文章做 5 张左右的 shot 
 | 中文批注 | `references/annotation-system.md` |
 | 构图 | `references/composition-patterns.md` |
 
-本仓库为私人仓库，仅包含本 Skill，可独立运行。
+公开仓库：https://github.com/Return7-T/re7-illustrations  
+仅包含本 Skill，可独立运行。
