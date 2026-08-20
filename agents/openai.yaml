@@ -1,0 +1,4 @@
+interface:
+  display_name: "Re7 Illustrations"
+  short_description: "使用固定个人 IP 生成一致、有记忆点的文章配图"
+  default_prompt: "Use $re7-illustrations 为这篇文章生成 5 张配图。"
